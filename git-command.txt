@@ -6,7 +6,7 @@ git branch -M main
 git remote add origin https://github.com/MDMahin2007/first-git-hub.git
 git push -u origin main
 
-
+git add .
 
 
 git remote add origin https://github.com/MDMahin2007/first-git-hub.git
